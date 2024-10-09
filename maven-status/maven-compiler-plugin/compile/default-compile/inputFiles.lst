@@ -1,0 +1,7 @@
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\AutomaticEmailApplication.java
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\controller\EmailController.java
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\model\FetchOrderTable.java
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\model\FreightOrder.java
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\repository\OrderRepository.java
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\service\EmailService.java
+D:\CarrerShield\auto-email-reader-main\src\main\java\com\mfsys\Automatic\Email\service\TemplateEngineConfiguration.java

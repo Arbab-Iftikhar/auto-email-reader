@@ -1,0 +1,9 @@
+com\mfsys\Automatic\Email\service\TemplateEngineConfiguration.class
+com\mfsys\Automatic\Email\AutomaticEmailApplication.class
+com\mfsys\Automatic\Email\service\EmailService$2.class
+com\mfsys\Automatic\Email\service\EmailService.class
+com\mfsys\Automatic\Email\model\FetchOrderTable.class
+com\mfsys\Automatic\Email\repository\OrderRepository.class
+com\mfsys\Automatic\Email\service\EmailService$1.class
+com\mfsys\Automatic\Email\controller\EmailController.class
+com\mfsys\Automatic\Email\model\FreightOrder.class
